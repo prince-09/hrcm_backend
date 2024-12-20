@@ -1,0 +1,6 @@
+app/__pycache__
+app/crud/__pycache__
+app/endpoints/__pycache__
+app/schemas/__pycache__
+app/utils/__pycache__
+app/db/__pycache__
