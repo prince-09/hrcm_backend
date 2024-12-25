@@ -1,7 +1,3 @@
-Here's a `README.md` file for running the backend server and setting up the MongoDB environment variables.
-
----
-
 # Healthcare Revenue Cycle Management (HRCM) Backend
 
 This is the backend server for the Healthcare Revenue Cycle Management (HRCM) application. It is built using **FastAPI** and uses **MongoDB** for data storage.
